@@ -33,6 +33,10 @@ body {
 }
 
 @media (max-width: 1200px) {
+    body{
+        width: 1000px;
+    }
+
     .cabecalho {
         width: auto;
         padding: 0px 45px 0px 45px;
