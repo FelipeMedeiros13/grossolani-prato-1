@@ -40,7 +40,7 @@ body {
 
     .cabecalho__logo {
         box-sizing: border-box;
-        width: auto;
+        width: 500 px;
         padding: 0.94rem;
     }
 
