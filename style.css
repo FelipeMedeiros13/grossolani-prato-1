@@ -39,7 +39,9 @@ body {
     }
 
     .cabecalho__logo {
-        padding: 0,94rem;
+        box-sizing: border-box;
+        width: 50%;
+        padding: 0.94rem;
     }
 
     .apresentacao {
@@ -49,7 +51,8 @@ body {
     }
 
     .video {
-        width: 400px;
+        box-sizing: border-box;
+        width: 50%;
         height: auto;
     }
 
