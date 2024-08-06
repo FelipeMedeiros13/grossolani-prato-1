@@ -38,6 +38,10 @@ body {
         padding: 0px 45px 0px 45px;
     }
 
+    .cabecalho__logo {
+        padding: 0,94rem;
+    }
+
     .apresentacao {
         border: 0px;
         padding: 10px 10px;
